@@ -43,8 +43,9 @@ class FootballAdmin(admin.ModelAdmin):
 
 ## OUTPUT
 
-![screenshot jpg](https://github.com/keziahhhf/django-orm-app/assets/155235704/3e9c2a9b-4f3f-4ce2-a4bc-5b212fb14cd2)
 
+
+![Screenshot (4)](https://github.com/keziahhhf/django-orm-app/assets/155235704/d961bc4d-c5aa-4a72-b47d-24861520d7ce)
 
 
 
