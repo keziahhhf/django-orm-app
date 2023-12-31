@@ -41,8 +41,7 @@ class FootballAdmin(admin.ModelAdmin):
 ```
 
 
-## OUTPUT
-
+## OUTPU
 
 
 ![Screenshot (4)](https://github.com/keziahhhf/django-orm-app/assets/155235704/d961bc4d-c5aa-4a72-b47d-24861520d7ce)
@@ -50,3 +49,6 @@ class FootballAdmin(admin.ModelAdmin):
 
 
 ## RESULT
+
+Thus the program for creating a database using ORM has been
+executed successfully
